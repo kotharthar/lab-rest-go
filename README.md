@@ -8,3 +8,9 @@ The ground rule is;
 - Data store in SQLite database
 - Web forms
 - Basic navigation
+
+## The Steps ##
+
+- Make sure Go is installed.
+- Make sure [gom](https://github.com/GPMGo/gopm) is installed. 
+- Run `gom gen gomfile`
