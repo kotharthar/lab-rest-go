@@ -14,3 +14,4 @@ The ground rule is;
 - Make sure Go is installed.
 - Make sure [gom](https://github.com/GPMGo/gopm) is installed. 
 - Run `gom gen gomfile`
+- Run `gom install`
